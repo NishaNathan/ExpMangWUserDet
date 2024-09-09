@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "909098231141",
+    "project_id": "trainbookinguts",
+    "storage_bucket": "trainbookinguts.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909098231141:android:19e5d9a701ee766d362d8c",
+        "android_client_info": {
+          "package_name": "com.example.trainbookinguts"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB43-em-GrYukieRgKeKdjwdHuazs8V4MY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909098231141:android:a5f644da1ea9332c362d8c",
+        "android_client_info": {
+          "package_name": "com.trainbookinguts.in"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB43-em-GrYukieRgKeKdjwdHuazs8V4MY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
